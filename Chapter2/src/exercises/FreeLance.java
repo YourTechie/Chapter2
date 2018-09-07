@@ -13,7 +13,7 @@ public class FreeLance
 		
 		Scanner input = new Scanner(System.in);
 		
-		System.out.println("What is your first name >>");
+		System.out.println("What is your name? >>");
 		firstName = input.next();
 		
 		System.out.println("Give an integer >>");
@@ -24,7 +24,7 @@ public class FreeLance
 		
 		total = num1 + num2; 
 		
-		System.out.println("Your first name is "+firstName);
+		System.out.println("Your name is "+firstName);
 		System.out.println("Your first integer is "+num1);
 		System.out.println("Your second integer is "+num2);
 		System.out.println("Your total integer is "+total);
