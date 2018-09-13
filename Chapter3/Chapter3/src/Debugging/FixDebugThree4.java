@@ -17,5 +17,5 @@ public class FixDebugThree4 {
 	      System.out.println("Total due " + (r*c));
 
 	}
-}
 
+}

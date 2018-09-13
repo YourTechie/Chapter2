@@ -45,5 +45,7 @@ public class NumbersDemo {
 		x2 = x * x;
 		y2 = y * y;
 		System.out.println("x = " + x2 + " y = " + y2);
+
 	}
+
 }

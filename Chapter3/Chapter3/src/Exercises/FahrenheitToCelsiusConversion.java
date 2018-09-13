@@ -4,7 +4,7 @@ public class FahrenheitToCelsiusConversion {
 
 	public static void main(String[] args) 
 	{
-		double temp;
+double temp;
 		
 		Scanner input = new Scanner(System.in);
 		
@@ -22,5 +22,7 @@ public class FahrenheitToCelsiusConversion {
 		celsius = conversionFormula; 
 		
 		System.out.println("The temp in celsius at 8:00am is " + celsius); 
+
 	}
+
 }

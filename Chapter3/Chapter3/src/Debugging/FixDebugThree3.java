@@ -19,7 +19,6 @@ public class FixDebugThree3 {
 	   public static void displayGreeting(String name)
 	   {
 	      System.out.println("Hello, " + name + "!");
-
 	}
 
 }

@@ -10,6 +10,7 @@ public class ParadiseInfo {
 	{
 		System.out.println("Paradise day Spa wants to pamper you.");
 		System.out.println("We will make you look good.");
-	
+
 	}
+
 }

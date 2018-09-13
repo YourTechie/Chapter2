@@ -22,5 +22,7 @@ public class Percentages2 {
 		
 		compute = (x / y) * 100;
 		System.out.println(x + " divided by " + y + " = " + compute + "%");
+
 	}
+
 }
