@@ -16,7 +16,7 @@ public class ParadiseInfo2 {
 				
 				
 		displayInfo();
-		computeDiscountInfo();
+		computeDiscountInfo(price, discount);
 		savings = computeDiscountInfo(price, discount);
 		
 		
@@ -30,7 +30,7 @@ public class ParadiseInfo2 {
 		System.out.println("We will make you look good.");
 
 	}
-	public static void computeDiscountInfo(double pr, double dscnt)
+	public static double computeDiscountInfo(double pr, double dscnt)
 	{
 		double savings;
 		savings = pr * dscnt / 100;
